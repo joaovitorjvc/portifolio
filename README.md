@@ -10,5 +10,5 @@ Seja bem vindo ao meu primeiro portifólio
 
 *Flex-box
 ## Feito por:
-## João Vitor
-## Linkedin: https://www.linkedin.com/in/joaovitorjvcl/
+### João Vitor
+### Linkedin: https://www.linkedin.com/in/joaovitorjvcl/
